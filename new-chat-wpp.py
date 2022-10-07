@@ -61,6 +61,7 @@ class NewChatWhatsApp():
 		num  = self.NUM_var.get()
 		print(f"http://api.whatsapp.com/send?phone={code}{ddd}{num}")
 		webbrowser.open_new_tab(f"http://api.whatsapp.com/send?phone={code}{ddd}{num}")
+		self.window.destroy()
 
 	def _setup_button_CHAT(self):
 		button = tk.Button(
