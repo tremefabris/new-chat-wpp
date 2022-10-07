@@ -1,5 +1,4 @@
 import webbrowser
-import argparse
 import tkinter as tk
 
 
