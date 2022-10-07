@@ -1,1 +1,3 @@
 # new-chat-wpp
+
+My phone isn't working and I'm tired of manually inserting other people's phone numbers in the URL search bar. So here you go...
